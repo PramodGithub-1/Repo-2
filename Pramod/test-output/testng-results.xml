@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-05T17:22:24 IST" name="Default suite" finished-at="2024-02-05T17:22:24 IST" duration-ms="337">
+    <groups>
+    </groups>
+    <test started-at="2024-02-05T17:22:24 IST" name="Default test" finished-at="2024-02-05T17:22:24 IST" duration-ms="337">
+      <class name="CalenderPopups.DateProgram">
+        <test-method signature="sample()[pri:0, instance:CalenderPopups.DateProgram@2d710f1a]" started-at="2024-02-05T17:22:24 IST" name="sample" finished-at="2024-02-05T17:22:24 IST" duration-ms="174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample -->
+      </class> <!-- CalenderPopups.DateProgram -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
